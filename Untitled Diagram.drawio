@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T13:09:53.051Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="XQWojsAghYqBleLHxsjQ" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T13:17:01.348Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="sMZ5aznmRorFDzv2RB5J" version="13.6.6" type="github">
   <diagram id="XNAhClGBbjb06SnyfVDq" name="Page-1">
     <mxGraphModel dx="801" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="x97qK44pdzID6g6w5QUF-121" value="Consommation" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="284" y="380" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="x97qK44pdzID6g6w5QUF-122" value="+id&#xa;+solde_consommé&#xa;+commentaire" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="x97qK44pdzID6g6w5QUF-121">
+        <mxCell id="x97qK44pdzID6g6w5QUF-122" value="+id&#xa;+solde_consommé&#xa;+commentaire&#xa;+date_consommation" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="x97qK44pdzID6g6w5QUF-121">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-130" value="Employe" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
