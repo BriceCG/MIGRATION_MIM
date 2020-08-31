@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T12:27:15.322Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8hakGTkN_RELZlWOw-t2" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T12:33:22.906Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YfoG4p9xpjxd7UNbu_0e" version="13.6.6" type="github">
   <diagram id="XNAhClGBbjb06SnyfVDq" name="Page-1">
     <mxGraphModel dx="801" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,16 +11,16 @@
           <mxGeometry x="300" y="265" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-92" value="Solde" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="160" height="120" as="geometry" />
+          <mxGeometry x="50" y="210" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="x97qK44pdzID6g6w5QUF-93" value="+id&#xa;+ projet&#xa;+solde_data&#xa;+commentaire" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="x97qK44pdzID6g6w5QUF-92">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="x97qK44pdzID6g6w5QUF-93" value="+id&#xa;+ projet&#xa;+solde_data_restant&#xa;+commentaire" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="x97qK44pdzID6g6w5QUF-92">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-94" value="Recharge" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="470" y="195" width="160" height="150" as="geometry" />
+          <mxGeometry x="470" y="195" width="160" height="135" as="geometry" />
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-95" value="+id&#xa;+somme_ajouté&#xa;+date_recharge&#xa;+date_expiration&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="x97qK44pdzID6g6w5QUF-94">
-          <mxGeometry y="30" width="160" height="120" as="geometry" />
+          <mxGeometry y="30" width="160" height="105" as="geometry" />
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-113" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1,1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="195" width="30" height="20" as="geometry" />
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="x97qK44pdzID6g6w5QUF-95" target="x97qK44pdzID6g6w5QUF-99">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x97qK44pdzID6g6w5QUF-121" value="Consommation" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x97qK44pdzID6g6w5QUF-122" value="+id&#xa;+solde_consommé&#xa;+" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="x97qK44pdzID6g6w5QUF-121">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
