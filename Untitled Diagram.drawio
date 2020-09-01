@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T07:14:14.803Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="cdW0wGUk9vbwYmbGvoji" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T07:18:33.037Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="dxNQXowTLZw9FU4RAP0W" version="13.6.5" type="github">
   <diagram id="XNAhClGBbjb06SnyfVDq" name="Page-1">
-    <mxGraphModel dx="144" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="x97qK44pdzID6g6w5QUF-92" value="Solde" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="470" width="235" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="x97qK44pdzID6g6w5QUF-93" value="+id_solde&#xa;+solde_data_restant&#xa;+consommation_du_jour&#xa;+consommation_moyenne_journaliere&#xa;+projets&#xa;+duree_moyenne_mobile" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="x97qK44pdzID6g6w5QUF-92" vertex="1">
+        <mxCell id="x97qK44pdzID6g6w5QUF-93" value="+id_solde&#xa;+projets&#xa;+solde_data_restant&#xa;+consommation_du_jour&#xa;+consommation_moyenne_journaliere&#xa;+duree_moyenne_mobile" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="x97qK44pdzID6g6w5QUF-92" vertex="1">
           <mxGeometry y="30" width="235" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x97qK44pdzID6g6w5QUF-121" value="Consommation" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
