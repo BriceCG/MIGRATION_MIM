@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T06:36:04.941Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9jNl1BQM7slHaGsnBPgk" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T06:36:35.444Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="uZZDHl-FDLFg4NHSHAzE" version="13.6.5" type="github">
   <diagram id="XNAhClGBbjb06SnyfVDq" name="Page-1">
     <mxGraphModel dx="801" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="TX5LGnyhqIQ3j0AgwXFZ-5" value="Utilisateur" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TX5LGnyhqIQ3j0AgwXFZ-6" value="+id&#xa;+login&#xa;+password" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="TX5LGnyhqIQ3j0AgwXFZ-5">
+        <mxCell id="TX5LGnyhqIQ3j0AgwXFZ-6" value="+id&#xa;+login&#xa;+password&#xa;+active" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="TX5LGnyhqIQ3j0AgwXFZ-5">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TX5LGnyhqIQ3j0AgwXFZ-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1,1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
