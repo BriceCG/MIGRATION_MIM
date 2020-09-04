@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T10:56:05.606Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BCHI5mWRvxN0JcYOnJ20" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T10:56:39.021Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="4Wq14J4Q4IehkZCQByDI" version="13.6.5" type="github">
   <diagram id="EeadG67xCyOba-YVA_OM" name="Page-1">
     <mxGraphModel dx="1041" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="C67LLcp0CAZSQti3y-RA-16" value="data.tracking.debit" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="410" y="760" width="160" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="C67LLcp0CAZSQti3y-RA-17" value="+id PK&#xa;+create_date&#xa;+create_uid FK&#xa;+write_date&#xa;+write_uid&#xa;+display_name&#xa;+company_id FK&#xa;+currency_id FK&#xa;+date&#xa;+project_ids FK&#xa;+note&#xa;+daily_cons&#xa;+remaining_data&#xa;+data_tracking_id FK&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C67LLcp0CAZSQti3y-RA-16" vertex="1">
+        <mxCell id="C67LLcp0CAZSQti3y-RA-17" value="+id PK&#xa;+create_date&#xa;+create_uid FK&#xa;+write_date&#xa;+write_uid&#xa;+display_name&#xa;+company_id FK&#xa;+currency_id FK&#xa;+remaining_data&#xa;+date&#xa;+project_ids FK&#xa;+note (commentaire)&#xa;+daily_cons&#xa;+data_tracking_id FK&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C67LLcp0CAZSQti3y-RA-16" vertex="1">
           <mxGeometry y="30" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="UNE42eeyvyQ6CrdMO4MG-1" value="project.project" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
