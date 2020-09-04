@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T10:56:39.021Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="4Wq14J4Q4IehkZCQByDI" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T11:00:16.351Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Soqya5dDNHUuVTlwnGWD" version="13.6.5" type="github">
   <diagram id="EeadG67xCyOba-YVA_OM" name="Page-1">
     <mxGraphModel dx="1041" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="C67LLcp0CAZSQti3y-RA-8" value="+native_attributes" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C67LLcp0CAZSQti3y-RA-7" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="C67LLcp0CAZSQti3y-RA-1" value="data.tracking" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="C67LLcp0CAZSQti3y-RA-1" value="data.tracking(suivi)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="690" y="370" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="C67LLcp0CAZSQti3y-RA-2" value="+id PK&#xa;+create_date&#xa;+create_uid FK&#xa;+write_date&#xa;+write_uid&#xa;+display_name&#xa;+company_id FK&#xa;+currency_id FK&#xa;+name&#xa;+employee_id FK&#xa;+rate_validity&#xa;+weekly_cons&#xa;+average_base&#xa;+active&#xa;+data_tracking_debit_ids&#xa;+data_tracking_credit_ids&#xa;&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="C67LLcp0CAZSQti3y-RA-1" vertex="1">
